@@ -1,6 +1,5 @@
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\CountryRQ$CountryRQBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\BankEntityController.class
-ec\edu\espe\arquitectura\banquitowsgestionadmin\config\MongoConfig$1.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\GeoStructureRQ$GeoStructureRQBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\HolidayRQ$HolidayRQBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\GeoLocationController.class
@@ -15,7 +14,6 @@ ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\CountryRS.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\model\BankEntity.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\BankEntityRS.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\HolidayRQ.class
-ec\edu\espe\arquitectura\banquitowsgestionadmin\config\MongoConfig.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\BranchRQ.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\BranchRQ$BranchRQBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\CountryRS$CountryRSBuilder.class
@@ -44,7 +42,6 @@ ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\BranchRS.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\GeoStructureRS$GeoStructureRSBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\service\HolidayService.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\CountryController.class
-ec\edu\espe\arquitectura\banquitowsgestionadmin\config\MongoConfig$2.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\GeoLocationRQ$GeoLocationRQBuilder.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\controller\dto\GeoStructureRQ.class
 ec\edu\espe\arquitectura\banquitowsgestionadmin\model\GeoStructure$GeoStructureBuilder.class
